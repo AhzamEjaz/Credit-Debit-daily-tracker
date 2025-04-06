@@ -7,8 +7,9 @@
    ```
    make setup
    ```
-   **You Must have conda previously installed**
-   This will create a conda environment named credit debit.
+   **NOTE: You Must have conda previously installed**
+
+   This will create a conda environment named credit-debit.
 4. Activate the conda environment by typing following in the terminal;
    ```
    conda activate credit-debit
