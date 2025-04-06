@@ -20,7 +20,7 @@
    ```
 10. After all the dependencies havce been installed. Run the application:
     ```
-    python app.py
+    make run
     ```
 
 ## Future Updates:
