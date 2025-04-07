@@ -27,6 +27,8 @@
 
 🗓️ Add a range feature that filters the transactions between the given range of dates and calculate the total credit/ Debit, Remaining Balance and No. of transactions in those dates.
 
+🕐 Make UI more dynamic; suitable for resizing window.
+
 🕐 Add a pdf creation feature that creates a report that includes Time series plots for credit/ debit and balance.
 ### Legend
 
